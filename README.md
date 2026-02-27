@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+👨‍💻 Who I Am<br><br>Third-year BSIT student focused on web development and UI design. I enjoy building practical systems that solve real-world problems through clean interfaces and structured backend logic.<br><br>🔭 Currently Working On<br><br>Veterinary Management System (Academic Project)<br><br>• Client registration (Owner & Pet List)<br>• Walk-in & Online appointment scheduling<br>• Transaction history & report generation<br>• Medicine & vaccine inventory system<br>  – Registration & expiration tracking<br>  – Low-stock alerts<br>  – Near-expiry alerts<br><br>A system built to simulate real-world workflow — beyond simple archiving.<br><br>👯 Open to Collaborate On<br><br>• Web-based systems<br>• CRUD & API integration projects<br>• User-focused interfaces<br>• Academic or practice-based builds<br><br>🤝 Looking for Help With<br><br>• Backend–frontend integration<br>• API security practices<br>• Writing scalable & maintainable full-stack code<br><br>🌱 Currently Learning<br><br>Backend & API<br>Laravel 11 • REST APIs • Laravel Sanctum • MySQL • XAMPP <br><br>Frontend<br>React.js • Vite • Tailwind CSS • Axios  • Node.js & NPM<br><br>💬 Ask Me About<br><br>• Laravel + React academic systems<br>• API testing & authentication basics<br>• Learning full-stack as a student<br><br>⚡ Fun Fact<br><br>ROTC officer & dance troupe member — discipline, teamwork, and time management are skills I bring into development.
 
-<!--
-**ReyFrancisS/ReyFrancisS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/reyfrancis.evano) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@reyfrans19) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Rey Francis Sison) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sisonreyfrancis19@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ReyFrancisS&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ReyFrancisS&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ReyFrancisS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ReyFrancisS&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
