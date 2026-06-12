@@ -1,38 +1,30 @@
 # 💫 About Me
-
 👨‍💻 **Who I Am**
-
 Third-year BSIT student at Eastern Visayas State University, focused on full-stack web development. I enjoy building practical systems that solve real-world problems through clean interfaces and structured backend logic.
 
 🔭 **Currently Working On**
-
 Various academic and personal web-based projects — from management systems to portfolios and interactive applications. Each project is built to simulate real-world workflows, not just simple archiving.
 
 👯 **Open to Collaborate On**
-
 - Web-based systems
 - CRUD & API integration projects
 - User-focused interfaces
 - Academic or practice-based builds
 
 🌱 **Currently Learning**
-
 Continuously expanding my skills in both frontend and backend development, adapting to whatever tools and technologies best fit the project at hand.
 
 💬 **Ask Me About**
-
 - Full-stack web development
 - API integration & authentication basics
 - Learning web development as a student
 
 ⚡ **Fun Fact**
-
 Outside of academics, I serve as an ROTC officer and I'm a member of a dance troupe. While these are not directly related to technology, they have helped me develop discipline, time management, and teamwork — qualities I bring into every project I work on.
 
 ---
 
 ## 🌐 Socials
-
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sisonreyfrancis19@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rey-francis-sison-050986412/)
 
@@ -54,10 +46,9 @@ Outside of academics, I serve as an ROTC officer and I'm a member of a dance tro
 ---
 
 ## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=ReyFrancisS&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=ReyFrancisS&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=ReyFrancisS&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ReyFrancisS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ReyFrancisS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
