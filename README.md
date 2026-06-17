@@ -22,6 +22,11 @@ Continuously expanding my skills in both frontend and backend development, adapt
 ⚡ **Fun Fact**
 Outside of academics, I serve as an ROTC officer and I'm a member of a dance troupe. While these are not directly related to technology, they have helped me develop discipline, time management, and teamwork — qualities I bring into every project I work on.
 
+## 🚀 Live Projects
+
+| Name | Description | Live Demo |
+|------|-------------|-----------|
+| TaskFlow | A collaborative project management tool where team leaders create projects, assign tasks to members, and track progress through a Kanban-style board — keeping every group project organized and on schedule. | [Live Demo](https://taskflow-nine-mu.vercel.app) |
 ---
 
 ## 🌐 Socials
